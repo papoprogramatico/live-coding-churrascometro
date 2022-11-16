@@ -1,0 +1,15 @@
+Churrascômetro 
+
+Objetivo é calcular quanto de carne vou precisar para o meu churrasco.
+
+1-Sabe-se que a média de consumo de carne por pessoa é de 500gr mas pode variar. 
+
+2-A primeira coisa que precisamos saber é quantas pessoas irão participar do churrasco. 
+
+3-Logo após precisamos saber o valor médio da carne.
+
+4-Para saber a quantidade total de carne que iremos consumir, precisamos multiplicar a quantidade média de carne consumida por pessoa pela quantidade de pessoas.
+
+5-Para sabermos o preço total, precisamos multiplicar o preço médio da carne pela quantidade total de carne.
+
+6-Para sabermos qual valor cada pessoa deverá contribuir com o churrasco, devemos dividir o preço total da carne pela quantidade de pessoas. 

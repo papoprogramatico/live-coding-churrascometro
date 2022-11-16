@@ -1,0 +1,30 @@
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\bin\Debug\net6.0\churrascometro.exe
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\bin\Debug\net6.0\churrascometro.deps.json
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\bin\Debug\net6.0\churrascometro.runtimeconfig.json
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\bin\Debug\net6.0\churrascometro.dll
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\bin\Debug\net6.0\churrascometro.pdb
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.dll
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\refint\churrascometro.dll
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.pdb
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\churrascometro.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Área de Trabalho\churrascometro\obj\Debug\net6.0\ref\churrascometro.dll
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\bin\Debug\net6.0\churrascometro.exe
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\bin\Debug\net6.0\churrascometro.deps.json
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\bin\Debug\net6.0\churrascometro.runtimeconfig.json
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\bin\Debug\net6.0\churrascometro.dll
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\bin\Debug\net6.0\churrascometro.pdb
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.csproj.AssemblyReference.cache
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.GeneratedMSBuildEditorConfig.editorconfig
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.AssemblyInfoInputs.cache
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.AssemblyInfo.cs
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.csproj.CoreCompileInputs.cache
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.dll
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\refint\churrascometro.dll
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.pdb
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\churrascometro.genruntimeconfig.cache
+E:\papoProgramatico\live-Coding\churrascometro\churrascometro\obj\Debug\net6.0\ref\churrascometro.dll
