@@ -5,7 +5,7 @@ Repositorio criado para quem quiser acompanhar a evolução do código do canal 
 
 Se inscreva no canal e nos siga na twitch.tv/papoprogramatico
 
-Segunda-Feira = Live Coding 💻
+Segunda-Feira = Coda aí! 💻
 
 Quarta-feira = PapoProgramatico🗨️
 
